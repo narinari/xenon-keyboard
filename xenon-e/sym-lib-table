@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name xenone-rescue)(type Legacy)(uri ${KIPRJMOD}/xenone-rescue.lib)(options "")(descr ""))
+  (lib (name xenon-e-rescue)(type Legacy)(uri ${KIPRJMOD}/xenon-e-rescue.lib)(options "")(descr ""))
+)
